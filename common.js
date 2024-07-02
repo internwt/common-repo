@@ -1,3 +1,3 @@
-const x =88888888888888888
+const x ="ss"
 
 module.exports={x}
