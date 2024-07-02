@@ -1,3 +1,3 @@
-const x ="loveneet"
+const x ="loveneet singh"
 
 module.exports={x}
